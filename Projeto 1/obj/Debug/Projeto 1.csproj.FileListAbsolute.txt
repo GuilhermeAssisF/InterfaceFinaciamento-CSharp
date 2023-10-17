@@ -1,0 +1,10 @@
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\bin\Debug\Projeto 1.exe.config
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\bin\Debug\Projeto 1.exe
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\bin\Debug\Projeto 1.pdb
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\obj\Debug\Projeto 1.csproj.AssemblyReference.cache
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\obj\Debug\Projeto_1.Properties.Resources.resources
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\obj\Debug\Projeto 1.csproj.GenerateResource.cache
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\obj\Debug\Projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\obj\Debug\Projeto 1.exe
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\obj\Debug\Projeto 1.pdb
+C:\Users\giloc\OneDrive\Documentos\C#\Projeto 1\Projeto 1\obj\Debug\Projeto_1.Form1.resources
